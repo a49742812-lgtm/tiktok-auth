@@ -1,0 +1,14 @@
+POST https://hook.us2.make.com/bbvj8zka5uuvjqfochgh4w3ofd7qb6c8
+Content-Type: application/json
+
+{
+  "name": "Test Campaign",
+  "ctr": 1.24,
+  "cpm": 7.50,
+  "cpc": 0.32,
+  "roas": 3.20,
+  "spend": 25.50,
+  "impressions": 18500,
+  "conversions": 30,
+  "sales": 350
+}
